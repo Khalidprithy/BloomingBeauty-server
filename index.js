@@ -128,5 +128,5 @@ app.listen(port, () => {
 })
 
 
-// https://protected-journey-17273.herokuapp.com/products
+// https://mighty-brushlands-85501.herokuapp.com/
 // To update - git add commit push + git push heroku main
